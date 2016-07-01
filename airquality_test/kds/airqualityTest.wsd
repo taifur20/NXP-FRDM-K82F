@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<workspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="workingsets.xsd">
+	<projects>
+		<project>
+			<name>airqualityTest_MK82FN256VLL15</name>
+			<path>.</path>
+			<open>true</open>
+			<activeconfig>debug</activeconfig>
+			<buildreferences config="debug">false</buildreferences>
+			<activeconfig>release</activeconfig>
+			<buildreferences config="release">false</buildreferences>
+		</project>
+	</projects>
+	<workingsets>
+		<workingSet editPageId="org.eclipse.cdt.ui.CElementWorkingSetPage" id="1323268527287_1" label="airqualityTest" name="airqualityTest">
+			<item factoryID="org.eclipse.cdt.ui.PersistableCElementFactory" path="/airqualityTest_MK82FN256VLL15" type="4" />
+		</workingSet>
+	</workingsets>
+	<cdtconfigurations>
+		<workingSet name="airqualityTest">
+			<config name="debug">
+				<project config="com.freescale.arm.cdt.toolchain.config.arm.release.695495605" configName="debug" name="airqualityTest_MK82FN256VLL15" />
+			</config>
+			<config name="release">
+				<project config="com.freescale.arm.cdt.toolchain.config.arm.release.695495605" configName="release" name="airqualityTest_MK82FN256VLL15" />
+			</config>
+		</workingSet>
+	</cdtconfigurations>
+</workspace>
